@@ -98,12 +98,6 @@ pyperclip
 
 ---
 
-## 📎 Screenshots
-
-> _(You can add your screenshots here for visual demonstration)_
-
----
-
 ## 🔐 Security Note
 
 This tool runs locally and does **not** store or transmit any passwords. For breach checking, consider using official APIs like [HaveIBeenPwned](https://haveibeenpwned.com/API/v3) separately and responsibly.
